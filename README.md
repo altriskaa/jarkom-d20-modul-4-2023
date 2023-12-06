@@ -227,5 +227,5 @@ Berikut merupakan hasil dari pembagian IP berdasarkan Tree yang telah dibuat seb
 ![heiter](https://github.com/altriskaa/jarkom-d20-modul-44-2023/assets/56571284/abeaf1f6-e6c3-4fd5-9b8e-8ffdb4b44dbc)
 
 ## Testing 
-
+https://github.com/altriskaa/jarkom-d20-modul-44-2023/assets/56571284/ba57810a-f2fb-4db5-8bcf-c3f855438cb2
 
