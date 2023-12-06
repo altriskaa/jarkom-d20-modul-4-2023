@@ -11,7 +11,7 @@
 - [Daftar Isi](#daftar-isi)
   - [Topologi GNS VLSM](#topologi-gns-vlsm)
   - [Topologi PKT CIDR](#topologi-pkt-cidr)
-  - [Prefix IP](#prefix-ip)
+  - [Subnet dan Prefix IP](#subnet-dan-prefix-ip)
   - [Route](#route)
 - [VLSM](#vlsm)
   - [Tree](#tree)
@@ -31,7 +31,9 @@
 ## Topologi PKT CIDR
 
 
-## Prefix IP 
+## Subnet dan Prefix IP 
+![image](https://github.com/altriskaa/jarkom-d20-modul-44-2023/assets/114663340/c54964d8-2778-4645-85fd-c2daa5cbb36a)
+
 Kelompok kami memiliki prefix IP `192.201`
 
 ## Route
